@@ -1,3 +1,16 @@
 
 .DS_Store
 US_Accidents_June20.csv
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/7082CEM.iml
+.idea/vcs.xml
+US_Accidents_June20_pre-processed.csv
+US_Accidents_June20 (Autosaved)(1).csv
+code/.ipynb_checkpoints/Visuallisation-checkpoint.ipynb
+code/.ipynb_checkpoints/Data_clearing_up_2-checkpoint.ipynb
+code/code-snippet.bash
+code/US_Accidents_June20_pre_processed_2.csv
+code/out.csv
